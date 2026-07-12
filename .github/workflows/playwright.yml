@@ -1,3 +1,4 @@
+# Playwright CI Pipeline
 name: Playwright C# CI
 
 on:
